@@ -1,4 +1,2 @@
 # Hangman
-There are two files with the name hangman.py and words.py
-The file words.py contains an array of words downloaded form internet 
-and hangman.py file contains the code of hangman.
+It is a simple hangman game implemented in python. it has text file including all the words. please make sure to keep all the files in one directory or else it will not work. This game selects any random word from the file and asks you to guess character for that word. You will get 6 chances to guess a word. when your guesses correct character your chance will not be counted when you gives wrong character your chance will be reduced by one.
